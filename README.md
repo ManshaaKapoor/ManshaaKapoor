@@ -39,7 +39,11 @@ Alongside technical expertise, I have worked as a **Teaching Assistant** and **R
 - **[Text Summarisation for Hindi Language](https://github.com/ManshaaKapoor/Text-Summarisation-for-Hindi-Language)**  
   - Developed Hindi text summarization models using the ILT-2023 dataset, implementing advanced Bi-LSTM, BART, and BERT architectures with custom attention mechanisms.
   - Designed and managed the full project pipeline, from data handling to model training and evaluation, ensuring accurate and efficient text summarization for Hindi.
-  
+
+- **[Heart Disease Predictor](https://github.com/ManshaaKapoor/Heart-Disease-Predictor)**  
+  - Developed a machine learning model to assess **heart attack risk** based on medical and lifestyle data.  
+  - Compared algorithms like **Logistic Regression, Random Forest, SVM, and KNN**, achieving **97.2% accuracy with KNN**.  
+  - Applied **feature engineering, hyperparameter tuning, and SMOTE** for balanced and accurate predictions. This project demonstrates AI’s potential in **early disease detection**.  
 
 - **[Tank Stars Game](#)**  
   - Developed the first level of the Tank Stars Game using Java and LibGDX, implementing object-oriented programming (OOP) principles to ensure a modular and maintainable   design utilizing LibGDX
