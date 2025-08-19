@@ -49,7 +49,7 @@ Alongside technical expertise, I have worked as a **Teaching Assistant** and **R
   - Developed and evaluated two deep learning models (U-Net and DeepSat V2) for multi-class semantic segmentation of satellite imagery, focusing on land cover classification utilizing the DeepGlobe 2018 and UC Merced datasets 
   - Analyzed model accuracy and error patterns based on pixel-wise segmentation and classification results, providing insights into the strengths of U-Net for real-time analysis and DeepSat V2 for static high-resolution imagery.
  
-  - **[Statistical Machine Learning Analysis Project](https://github.com/ManshaaKapoor/Statistical-Machine-Learning-Analysis-Project)**  
+- **[Statistical Machine Learning Analysis Project](https://github.com/ManshaaKapoor/Statistical-Machine-Learning-Analysis-Project)**  
   - Applied various **machine learning algorithms and techniques** to train models on provided training data and generate predictions for test data.  
   - Accuracy of predictions was used as the **primary metric of evaluation**.
 ---
