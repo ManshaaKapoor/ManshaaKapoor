@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manshaa--kapoor-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manshaa-kapoor-82843a239)  
 [![GitHub](https://img.shields.io/badge/GitHub-ManshaaKapoor-black?style=flat&logo=github)](https://github.com/ManshaaKapoor)    
+[![Email](https://img.shields.io/badge/Email-manshaakapoor%40gmail.com-red?style=flat&logo=gmail)](mailto:manshaakapoor@gmail.com)  
 
 ---
 
